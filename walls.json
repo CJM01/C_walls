@@ -1,0 +1,28 @@
+{
+  "wallpapers": [
+    {
+      "author": "Jay Bray",
+      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/bobby_bray3.jpg",
+      "name": "Back Bay Biloxi",
+      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/Polar_walls/bobby_bray3_thumb.jpg"
+    },
+    {
+      "author": "Corey",
+      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/material1920_3.png",
+      "name": "Blue wall thingy",
+      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/Polar_walls/material1920_3_thumb.png"
+    },
+    {
+      "author": "Mad Season",
+      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/rm5.jpg",
+      "name":" Clouds",
+      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/rm5.jpg"
+    },
+    {
+      "author": "James Horton",
+      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/james_horton4.jpg",
+      "name":" Harbor",
+      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/Polar_walls/james_horton4_thumb.jpg"
+    }
+  ]
+}
