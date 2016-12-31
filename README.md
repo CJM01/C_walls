@@ -1,2 +1,2 @@
 # C_walls
-Walls for polar dash
+Walls for a project using polar dash
