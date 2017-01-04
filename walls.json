@@ -2,9 +2,9 @@
   "wallpapers": [
     {
       "author": "Jay Bray",
-      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/bobby_bray5.jpg",
+      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/bobby_bray3.jpg",
       "name": "Back Bay Biloxi",
-      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/Polar_walls/bobby_bray5_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/Polar_walls/bobby_bray3_thumb.jpg"
     },
     {
       "author": "Corey",
@@ -15,14 +15,14 @@
     {
       "author": "Mad Season",
       "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/rm5.jpg",
-      "name":" Clouds",
+      "name": "Clouds",
       "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/rm5.jpg"
     },
     {
-      "author": "James Horton",
-      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/james_horton4.jpg",
-      "name":" Harbor",
-      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/Polar_walls/james_horton4_thumb.jpg"
+      "author": "Ken Christian",
+      "url": "https://raw.githubusercontent.com/CJM01/C_walls/master/145.jpg",
+      "name": "Sunrise",
+      "thumbnail": "https://raw.githubusercontent.com/CJM01/C_walls/master/Polar_walls/145_thumb.jpg"
     }
   ]
 }
